@@ -1,0 +1,6 @@
+{
+  "name": "Halls AI",
+  "description": "Enterprise Generative Engine Optimization (GEO) & AI Brand Visibility platform to monitor, measure, and optimize brand presence across ChatGPT, Gemini, Perplexity, Claude, and Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
